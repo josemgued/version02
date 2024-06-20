@@ -426,6 +426,10 @@ h6 {
   margin: 0;
 }
 
+.centrame p{
+  text-align: center;
+}
+
 /* Mobile Nav Toggle */
 
 #mobile-nav-toggle {
